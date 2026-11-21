@@ -64,3 +64,36 @@ This project demonstrates the application of data analytics tools to banking dat
 Aspiring Data Analyst
 
 Skills: Excel | SQL | Power BI | Tableau
+
+## Dashboard Previews
+
+### 1. Excel Dashboards
+
+**Bank Loan Analysis**
+
+![Bank Loan Excel Dashboard](Bank%20Loan%20DB%20EXCEL.png)
+
+**Debit & Credit Card Analysis**
+
+![Debit Credit Excel Dashboard](Debit%26Credit%20DB%20Excel.png)
+
+### 2. Tableau Dashboards
+
+**Bank Loan Analysis**
+
+![Bank Loan Tableau Dashboard](Bank%20Loan%20Tableau.png)
+
+**Debit & Credit Card Analysis**
+
+![Debit Credit Tableau Dashboard](Credit%26Debit%20Tableau.png)
+
+### 3. Power BI Dashboards
+
+**Bank Loan Analysis**
+
+![Bank Loan Power BI Dashboard](Bank%20Loan%20DB%20PBI.png)
+
+**Credit & Debit Analysis**
+
+![Credit Debit Power BI Dashboard](Debit%26Credit%20DB%20PBI.png)
+
